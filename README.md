@@ -1,5 +1,7 @@
 Blackjack is Fun
 ================
+`python blackjack_main.py` and follow instructions.
+
 ## Instructions
 
 1. Game begins with a shuffled shoe (ie playing deck of cards).
