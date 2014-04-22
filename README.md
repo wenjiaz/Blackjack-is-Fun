@@ -1,6 +1,6 @@
 Blackjack is Fun
 ================
-`python blackjack_main.py` and follow instructions.
+Run `python blackjack_main.py` and follow instructions.
 
 ## Instructions
 
